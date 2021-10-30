@@ -1,0 +1,3 @@
+vmess=hk.xmtomcom.tk:443, method=chacha20-ietf-poly1305, password=5d1b291d-5798-4286-a47b-278875e39b5f, obfs=wss, obfs-host=hk.xmtomcom.tk, obfs-uri=/xrayvws?ed=2048, fast-open=false, udp-relay=true, tag=🇭🇰 GLC-VMESS-HK-LT
+vmess=tw.xmtomcom.tk:443, method=chacha20-ietf-poly1305, password=5d1b291d-5798-4286-a47b-278875e39b5f, obfs=wss, obfs-host=tw.xmtomcom.tk, obfs-uri=/xrayvws?ed=2048, fast-open=false, udp-relay=true, tag=🇨🇳 GLC-VMESS-TW-DX
+vmess=jp.xmtomcom.tk:443, method=chacha20-ietf-poly1305, password=5d1b291d-5798-4286-a47b-278875e39b5f, obfs=wss, obfs-host=jp.xmtomcom.tk, obfs-uri=/xrayvws?ed=2048, fast-open=false, udp-relay=true, tag=🇯🇵 GLC-VMESS-JP-YD
